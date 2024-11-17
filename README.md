@@ -28,96 +28,93 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
 
 **Programming languages </>**
 
-<div style="margin-left:32px;margin-bottom:17px;">
-    <img
-        height=22
-        valign="bottom"
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/c.png"
-    />
-    <img
-        height=22px
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
-    />
-    <img
-        height=22
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/c++.png"
-    />
-    <img
-        height=22px
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
-    />
-    <a href="https://www.rust-lang.org"><img
-        height=22
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/rust.png"
-    /></a>
-    <img
-        height=22px
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
-    />
-    <a href="https://www.java.com"><img
-        height=22
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/java.png"
-    /></a>
-    <img
-        height=22px
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
-    />
-    <a href="https://www.python.org/"><img
-        height=22
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/python.png"
-    /></a>
-    <img
-        height=22px
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
-    />
-    <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img
-        height=22
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/js.png"
-    /></a>
-    <img
-        height=22px
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
-    />
-    <img
-        height=20
-        src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/sql.png"
-    />
-</div>
+<img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/c.png"
+/>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/c++.png"
+/>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://www.rust-lang.org"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/rust.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://www.java.com"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/java.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://www.python.org"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/python.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/js.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<img
+    height=20
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/sql.png"
+/>
 
 ---
 
 **Frameworks 🏗️**
 
-<div style="margin-left:32px;margin-bottom:17px;display:flex;align-items:center">
-    <img
-        height=31
-        src="https://cosasdedevs.com/media/sections/images/fastapi.png"
-    />
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <img
-        height=19
-        src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png"
-    />
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <img
-        height=33
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKrgoTbnjBlRGnU125HUBpWZ2gsTTyV5wEZw&s"
-    />
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <img
-        height=20
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBi_Gxvd49SnL_vX4sZWxanSlCdS0GBdtTw&s"
-    />
-</div>
+<a href="https://fastapi.tiangolo.com"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/fastapi.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://flask.palletsprojects.com/"><img
+    height=20
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/flask.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://www.tensorflow.org"><img
+    height=19
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/tf.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://hadoop.apache.org/"><img
+    height=19
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/hadoop.png"
+/></a>
+
+---
 
 **Technologies & Developer Tools 🛠️**
 
