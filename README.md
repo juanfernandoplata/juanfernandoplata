@@ -28,8 +28,6 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
 
 **Programming languages </>**
 
-<br></br>
-
 <div style="margin-left:32px;margin-bottom:17px;">
     <img
         height=22
@@ -85,8 +83,6 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
         src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/sql.png"
     />
 </div>
-
-<br></br>
 
 **Frameworks 🏗️**
 
