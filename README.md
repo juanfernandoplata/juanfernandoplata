@@ -28,6 +28,21 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
 
 **Programming languages </>**
 
+<table><tr>
+    <td valign="center">
+        <img
+            height=22
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png"
+        />
+    </td>
+    <td valign="center">
+        <img
+            height=22
+            src="https://miro.medium.com/v2/resize:fit:1200/0*fmpeXj1eUS-Nrkkv.png"
+        />
+    </td>
+</tr></table>
+
 <div style="margin-left:32px;margin-bottom:17px;display:flex;align-items:center;valign:center">
     <img
         height=22
