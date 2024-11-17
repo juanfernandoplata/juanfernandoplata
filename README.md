@@ -124,51 +124,60 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
 
 **Technologies & Developer Tools 🛠️**
 
-<div style="margin-left:32px;margin-bottom:17px;display:flex;align-items:center">
-    <img
-        height=27
-        src="https://ayudalinux.com/wp-content/uploads/2017/07/linux1-1.jpg"
-    />
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <img
-        height=36
-        src="https://1000marcas.net/wp-content/uploads/2021/05/Docker-Logo-2.png"
-    />
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <img
-        height=19
-        src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png"
-    />
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <img
-        height=28
-        src="https://konfigthis.com/img/postman.png"
-    />
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <span style="font-weight:501;font-size:15px">HTTP</span>
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <span style="font-weight:501;font-size:15px">REST</span>
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <span style="font-weight:501;font-size:15px">gRPC</span>
-</div>
+<a href="https://www.linux.org"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/linux.jpg"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://www.docker.com/"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/docker.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://www.redis.io/"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/redis.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://hadoop.postman.com/"><img
+    height=20
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/postman.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<img
+    height=19
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/HTTP.png"
+/>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<img
+    height=19
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/REST.png"
+/>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<img
+    height=19
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/grpc.png"
+/>
+
+---
 
 **Libraries 📖**
 
