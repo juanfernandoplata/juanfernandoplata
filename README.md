@@ -1,6 +1,7 @@
 ## Hi there! 👋
 
 **I'm Juan, a software engineer from Colombia!**
+
 I specialize in tech consulting, system design, back-end development, and AI/ML.
 
 ### Currently:
