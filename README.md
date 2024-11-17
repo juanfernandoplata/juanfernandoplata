@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi! 👋
 
-<!--
-**juanfernandoplata/juanfernandoplata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Juan, a software developer from Colombia! I mainly focus on system design and back-end development!
 
-Here are some ideas to get you started:
+Some of the tools I use are...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming languages:**
+
+<div
+    style="margin-left:16px"
+>
+    <a href="https://python.org">
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"
+            width=50px
+            alt="Python"
+        >
+    </a>
+</div>
