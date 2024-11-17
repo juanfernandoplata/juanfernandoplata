@@ -84,6 +84,7 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
     />
 </div>
 
+---
 
 **Frameworks 🏗️**
 
