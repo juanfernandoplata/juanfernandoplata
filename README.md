@@ -148,7 +148,7 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
     height=22px
     src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
 />
-<a href="https://hadoop.postman.com/"><img
+<a href="https://postman.com/"><img
     height=20
     src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/postman.png"
 /></a>
