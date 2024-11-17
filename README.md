@@ -8,6 +8,8 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
 
 - I'm doing Tech Consulting for several Colombian companies to help them better deliver value by improving their IT-related processes.
 
+---
+
 ### On the side...
 
 - I'm building some software projects for fun!
@@ -18,11 +20,15 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
 
 - I'm building execDB: a database focused on reducing latency and rountrips through the use of remote, db-side code execution.
 
+---
+
 ### Some of my projects...
 
 - [Short URL Generator](https://github.com/juanfernandoplata/shorturl)
 
 - [Image Similarity Search](https://github.com/juanfernandoplata/predizer-dpsp)
+
+---
 
 ### Some of tools I use...
 
