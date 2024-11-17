@@ -181,33 +181,31 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
 
 **Libraries 📖**
 
-<div style="margin-left:32px;margin-bottom:17px;display:flex;align-items:center">
-    <img
-        width=55px
-        src="https://victorzhou.com/static/c309c4c6a7bbdb43cf1f290786ce47ab/39600/keras-logo.png"
-    />
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <img
-        width=40px
-        src="https://pypi-camo.freetls.fastly.net/b86b2758380b6bc7cbdf4ff97fda9826a3b74aa2/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f7363696b69742d6c6561726e2f7363696b69742d6c6561726e2f6d61696e2f646f632f6c6f676f732f7363696b69742d6c6561726e2d6c6f676f2e706e67"
-    />
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <img
-        width=65px
-        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiz6EV85ecn7oer2pKtZmyiHlcC7ugUm50wA&s"
-    />
-    <img
-        height=30px
-        src="https://simpsonstudio-ni.com/wp-content/uploads/2018/12/straight-vertical-line-png-8.png"
-    />
-    <img
-        width=55px
-        src="https://miro.medium.com/v2/resize:fit:800/1*F2BHs6p9erpiGKro5Pg1uQ.png"
-    />
-</div>
+<a href="https://keras.io"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/keras.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://scikit-learn.org/"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/sklearn.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://www.numpy.org"><img
+    height=22
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/numpy.png"
+/></a>
+<img
+    height=22px
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pipe.png"
+/>
+<a href="https://docs.pytest.org/en/stable/"><img
+    height=20
+    src="https://raw.githubusercontent.com/juanfernandoplata/juanfernandoplata/refs/heads/main/pytest.png"
+/></a>
