@@ -1,28 +1,29 @@
 ## Hi there! 👋
 
-I'm Juan, a software engineer from Colombia!  I mainly focus on system design, back-end development and AI/ML.
+**I'm Juan, a software engineer from Colombia!**
+I specialize in tech consulting, system design, back-end development, and AI/ML.
 
-### Currently...
+### Currently:
 
-- I'm working with companies to improve their IT Service Managment (ITSM) using the [ServiceNow](https://www.servicenow.com/) platform.
+- I'm collaborating with companies to enhance their IT Service Management (ITSM) using the [ServiceNow](https://www.servicenow.com/) platform.
 
-- I'm doing Tech Consulting for several Colombian companies to help them better deliver value by improving their IT-related processes.
-
----
-
-### On the side...
-
-- I'm building some software projects for fun!
-
-- I'm learning AI/ML with [Andrew Ng's](https://www.coursera.org/instructor/andrewng) courses, and [François Chollet's](https://github.com/fchollet) book: "Deep Learning with Python".
-
-- I'm ocasionally writing about the stuff I do in [Medium](https://medium.com/@juanfernandoplata).
-
-- I'm building execDB: a database focused on reducing latency and rountrips through the use of remote, db-side code execution.
+- I provide tech consulting to Colombian companies, helping them improve their IT processes and deliver greater value.
 
 ---
 
-### Some of my projects...
+### On the side:
+
+- I'm working on personal software projects just for fun!
+
+- I'm diving into AI/ML through [Andrew Ng's](https://www.coursera.org/instructor/andrewng) courses and [François Chollet's](https://github.com/fchollet) book, Deep Learning with Python.
+
+- Occasionally, I share my experiences and knowledge on Medium.
+
+- I'm building **execDB**, a database designed to minimize latency and roundtrips by enabling remote, database-side code execution.
+
+---
+
+### Some of my projects:
 
 - [Short URL Generator](https://github.com/juanfernandoplata/shorturl)
 
@@ -30,7 +31,7 @@ I'm Juan, a software engineer from Colombia!  I mainly focus on system design, b
 
 ---
 
-### Some of tools I use...
+### Some of tools I use:
 
 **Programming languages </>**
 
