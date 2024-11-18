@@ -32,7 +32,7 @@ I specialize in tech consulting, system design, back-end development, and AI/ML.
 
 ---
 
-### Some of tools I use:
+### Some of the tools I use:
 
 **Programming languages </>**
 
